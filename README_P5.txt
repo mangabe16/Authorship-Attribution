@@ -14,7 +14,14 @@ documents
 04/27 - G.A - Acquired new corpus, scrubbed it on Lexos, uploaded the original file to new GitHub repo, began first commits
 04/30 - G.A - Processed corpus on Lexos, altered introdution section, read new files
 05/01 - G.A - Changes to general text of some cells in the notebook
-05/03 - G.A - Final changes to entire notebook to acommodate for new corpus
+05/03 - G.A - Final changes to entire notebook to acommodate for new corpus:
+   - Train/Test Splits Updated
+   - Split Handling Fixed
+   - Imputation Debugging Resolved
+   - Model Evaluation Consolidated
+   - Visualization Improved
+   - Conclusion + Interpretations Added
+05/03 - G.A - Advanced techniques introduced, with hyperparameter tuning
 
 ## Requirements
 - Python 3.x
